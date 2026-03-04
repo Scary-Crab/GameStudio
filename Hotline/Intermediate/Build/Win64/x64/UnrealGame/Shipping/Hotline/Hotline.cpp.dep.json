@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\kceri\\documents\\github\\gamestudio\\hotline\\intermediate\\source\\hotline.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\kceri\\documents\\github\\gamestudio\\hotline\\intermediate\\build\\win64\\x64\\hotline\\shipping\\core\\sharedpch.core.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\kceri\\documents\\github\\gamestudio\\hotline\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\hotline\\definitions.hotline.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
